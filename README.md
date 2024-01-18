@@ -14,8 +14,10 @@ Innerwell provides a diverse set of tools, including guided meditations, stress-
 Our application features a robust mental health assessment tool developed in collaboration with mental health professionals. Developers can leverage this feature to integrate a thorough assessment module into their applications.
 
 ## Resource Hub:
-
+![Screenshot of a content_screen](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/content1.png)
+![Screenshot of a content_screen](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/content2.png)
+![Screenshot of a content_screen](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/content3.png)
 Access a comprehensive repository of educational content, coping strategies, and articles curated by mental health experts. Developers can contribute to this rich resource hub, enhancing the depth of mental health insights.
 ## Virtual Support Groups:
-
+![Screenshot of a content_screen](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/sg.png)
 Foster a sense of community by integrating virtual support groups within applications. Developers can explore the provided API to create safe spaces for users to share experiences and build a network of support.
