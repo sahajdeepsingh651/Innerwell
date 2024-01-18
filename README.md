@@ -4,14 +4,15 @@ Welcome to Innerwell, a revolutionary open-source application meticulously craft
 
 ## Key Features
 ## Personalized Toolbox:
-![Self Assessmet_test.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/self_access_test.png))
+![Screenshot of a homescreen](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/homescreen.png)
 Innerwell provides a diverse set of tools, including guided meditations, stress-relief exercises, and mood tracking features. Developers can extend and customize this toolbox based on unique user needs.
 ## In-App Assessment:
-
+![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/self_access_test.png)
+![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess1.png)
+![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess%202.png)
+![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess3.png)
 Our application features a robust mental health assessment tool developed in collaboration with mental health professionals. Developers can leverage this feature to integrate a thorough assessment module into their applications.
-## Progress Tracking:
 
-Innerwell encourages continuous self-reflection through progress tracking features. Developers can explore and integrate these tracking mechanisms to help users visualize their mental health journey.
 ## Resource Hub:
 
 Access a comprehensive repository of educational content, coping strategies, and articles curated by mental health experts. Developers can contribute to this rich resource hub, enhancing the depth of mental health insights.
