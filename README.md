@@ -7,7 +7,7 @@ Welcome to Innerwell, a revolutionary open-source application meticulously craft
 ![Screenshot of a homescreen](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/homescreen.png)
 Innerwell provides a diverse set of tools, including guided meditations, stress-relief exercises, and mood tracking features. Developers can extend and customize this toolbox based on unique user needs.
 ## In-App Assessment:
-![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/self_access_test.png)
+![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/iPhone%2013%20mockup.png)
 ![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess1.png)
 ![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess%202.png)
 ![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess3.png)
