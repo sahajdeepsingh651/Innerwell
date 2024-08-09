@@ -9,7 +9,7 @@ Innerwell provides a diverse set of tools, including guided meditations, stress-
 ## In-App Assessment:
 ![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/iPhone%2013%20mockup.png)
 ![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess1.png)
-![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess%202.png)
+![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/self.png)
 ![Screenshot of a self assessment_test](https://github.com/sahajdeepsingh651/Innerwell/blob/main/lib/selfassess3.png)
 Our application features a robust mental health assessment tool developed in collaboration with mental health professionals. Developers can leverage this feature to integrate a thorough assessment module into their applications.
 
